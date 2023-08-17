@@ -1,4 +1,4 @@
-package com.cbta.gatewayserver;
+package com.common.gatewayserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

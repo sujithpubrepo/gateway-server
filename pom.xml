@@ -8,9 +8,9 @@
 		<version>2.7.14</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.cbta</groupId>
+	<groupId>com.common</groupId>
 	<artifactId>gateway-server</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>gateway-server</name>
 	<description>gateway-server</description>
 	<properties>
